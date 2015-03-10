@@ -17,3 +17,6 @@
 
 # Ignore cloud9 files
 /.c9
+
+# Ignore spring files
+/spring
